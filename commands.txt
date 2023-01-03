@@ -1,0 +1,1 @@
+PS C:\Users\Moiz\Downloads\Projects\ReactJS\acemind_react_2> npm install styled-components
